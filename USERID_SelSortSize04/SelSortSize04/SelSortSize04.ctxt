@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SelSortSize04
+comment0.text=\r\n\ The\ Selection\ Sort\ algorithm,\ on\ arrays\ of\ size\ 4.\r\n\ \r\n\ SKELETON\ FOR\ LAB\ TEST\:\ Students\ modify\ method\ "selSort04".\r\n\ \r\n\ @author\ Raymond\ Lister\ \r\n\ @version\ April\ 2015\r\n
+comment1.params=x\ position1\ position2
+comment1.target=void\ swapPositions(int[],\ int,\ int)
+comment1.text=\r\n\ Swaps\ the\ values\ stored\ at\ two\ POSITIONS\ of\ an\ array.\r\n\ \r\n\ You\ MUST\ use\ this\ method\ in\ your\ solution\ to\ method\r\n\ selSort04.\r\n\ \r\n\ Do\ NOT\ change\ this\ method.\r\n\ \r\n\ This\ method,\ or\ a\ method\ that\ performs\ the\ same\r\n\ function,\ may\ be\ examinable\ in\ the\ final\ exam.\r\n\ (But\ the\ debug\ "print"\ statements\ are\ NOT\ examinable.)\r\n\r\n\ @param\ \ \ x\ \ \ \ \ \ \ \ \ \ \ An\ array\ of\ integers\r\n\ @param\ \ \ position1\ \ \ A\ valid\ position\ in\ the\ array\ "a"\r\n\ @param\ \ \ position2\ \ \ A\ valid\ position\ in\ the\ array\ "a".\r\n
+comment2.params=a
+comment2.target=void\ selSort04(int[])
+comment2.text=\r\n\ Sorts\ an\ array\ of\ 4\ integers\ using\ the\ Selection\ Sort\ Algorithm.\r\n\r\n\ The\ Selection\ Sort\ Algorithm\ is\ examinable\ in\r\n\ the\ final\ exam.\ \ However,\ if\ you\ are\ examined\ on\r\n\ the\ Selection\ Sort\ Algorithm,\ it\ is\ likely\ to\ be\ on\r\n\ the\ version\ of\ Selection\ Sort\ taught\ later\ in\r\n\ semester,\ the\ version\ which\ uses\ loops,\ not\ this\ version.\r\n\ \r\n\ @param\ \ \ a\ \ \ An\ array\ of\ 4\ elements\ \r\n
+comment3.params=x
+comment3.target=void\ debug(int[])
+comment3.text=\ This\ method\ generates\ output\ that\ is\ useful\r\n\ when\ debugging\ selSort04.\r\n\ \r\n\ Also,\ plate\ EXPECTS\ to\ see\ the\ output\ generated\ by\ this\ method.\r\n\ \r\n\ Do\ NOT\ change\ this\ method.\r\n\ \r\n\ At\ the\ time\ you\ complete\ this\ lab\ exerise\ on\ \r\n\ selSort04,\ you\ are\ NOT\ expected\ to\ understand\ the\r\n\ code\ in\ this\ method.\r\n\ \r\n\ This\ method\ is\ NOT\ examinable\ in\ the\ final\ exam.\r\n
+numComments=4
